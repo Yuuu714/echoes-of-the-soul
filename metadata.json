@@ -1,0 +1,7 @@
+{
+  "name": "Echoes of the Soul",
+  "description": "An AI-powered art therapy platform that transforms your painted 'Soul Vinyl' into a personalized audio-visual healing experience using Gemini 2.5 and Web Audio API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
